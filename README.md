@@ -70,3 +70,7 @@ this file include:
 The BART_C game records and exports session data to an Excel file.
 This data includes the user's ID, age, number of popped balloons, saved money amount, and an indicator of whether money was cashed out or not. 
 This information is useful for analyzing player performance and collecting game data.
+
+## License
+
+This project, created by Anthony Roig, is licensed under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. You are free to use, modify, and distribute it without any restrictions.
